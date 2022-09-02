@@ -1,0 +1,10 @@
+.navi {
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+  font-weight: 600;
+}
+
+.navi:hover {
+  color: black;
+}
