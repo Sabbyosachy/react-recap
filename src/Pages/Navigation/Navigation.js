@@ -23,6 +23,9 @@ const Navigation = () => {
               <Link className="navi" to="/contact">
                 Contact
               </Link>
+              <Link className="navi" to="/loginemail">
+                LogInEmail
+              </Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
